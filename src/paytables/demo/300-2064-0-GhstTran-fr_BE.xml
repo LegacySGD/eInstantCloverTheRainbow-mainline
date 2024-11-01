@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="fr_BE">
+<phrase key="softwareId" value="ID du logiciel"/>
+<phrase key="transactionId" value="ID de transaction"/>
+<phrase key="totalWins" value="Total des gains"/>
+<phrase key="totalWager" value="Total de la mise"/>
+<phrase key="winningNumbers" value="Numéros porte-bonheur"/>
+<phrase key="yourNumbers" value="Vos numéros"/>
+<phrase key="youMatched" value="Motif obtenu"/>
+<phrase key="boardNumbers" value="Numéro"/>
+<phrase key="boardValues" value="Valeur du lot"/>
+<phrase key="BUY" value="Acheter"/>
+<phrase key="TRY" value="Dèmo"/>
+<phrase key="wagerType" value="Type de mise"/>
+<phrase key="1" value="Gemme jaune"/>
+<phrase key="2" value="Gemme rouge"/>
+<phrase key="3" value="Gem violet"/>
+<phrase key="4" value="diamant"/>
+<phrase key="5" value="Lune"/>
+<phrase key="6" value="Soleil"/>
+<phrase key="7" value="Clé"/>
+<phrase key="8" value="Médaillon"/>
+<phrase key="9" value="Harpe"/>
+<phrase key="10" value="Fer à cheval"/>
+<phrase key="11" value="Oeuf"/>
+<phrase key="12" value="Trèfle"/>
+<phrase key="13" value="Chapeau"/>
+<phrase key="14" value="Arbre"/>
+<phrase key="15" value="Plume"/>
+<phrase key="16" value="Bague"/>
+<phrase key="17" value="Étoile"/>
+<phrase key="18" value="Remarques"/>
+<phrase key="game" value="Jeu"/>
+<phrase key="outcome" value="Résultat"/>
+<phrase key="noMatch" value="Aucun"/>
+</translation>
